@@ -1,0 +1,2 @@
+Proxies the search function and media from the Apple Store API.
+Useful for Flash Apps, since the Apple Store does not host the necessary crossdomain.xml files.
